@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-06)
+## Unreleased (2025-06-22)
+
+<section class="features">
+
+### Features
+
+-   [`7a4a523`](https://github.com/stdlib-js/stdlib/commit/7a4a523de352b78048e6ec94b2cf6d1b70250db0) - add support for accessor arrays and refactor `stats/base/nanstdev`  [(#7392)](https://github.com/stdlib-js/stdlib/pull/7392)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#5667](https://github.com/stdlib-js/stdlib/issues/5667)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`7a4a523`](https://github.com/stdlib-js/stdlib/commit/7a4a523de352b78048e6ec94b2cf6d1b70250db0) - **feat:** add support for accessor arrays and refactor `stats/base/nanstdev`  [(#7392)](https://github.com/stdlib-js/stdlib/pull/7392) _(by Gururaj Gurram, stdlib-bot)_
 -   [`9c993f8`](https://github.com/stdlib-js/stdlib/commit/9c993f89e63574c8b17ec62d4ca1b5d88e47bf3e) - **refactor:** update paths _(by Gururaj Gurram)_
 
 </details>
