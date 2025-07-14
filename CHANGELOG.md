@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-09)
+## Unreleased (2025-07-14)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`028d338`](https://github.com/stdlib-js/stdlib/commit/028d338ec185c667fb62c8dafe7011a60287ad3a) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`0ce3935`](https://github.com/stdlib-js/stdlib/commit/0ce393575bc9f92b32158f83cc47c02aec2445e8) - **refactor:** rename files and update paths _(by Athan Reines)_
 -   [`7a4a523`](https://github.com/stdlib-js/stdlib/commit/7a4a523de352b78048e6ec94b2cf6d1b70250db0) - **feat:** add support for accessor arrays and refactor `stats/base/nanstdev`  [(#7392)](https://github.com/stdlib-js/stdlib/pull/7392) _(by Gururaj Gurram, stdlib-bot)_
 -   [`9c993f8`](https://github.com/stdlib-js/stdlib/commit/9c993f89e63574c8b17ec62d4ca1b5d88e47bf3e) - **refactor:** update paths _(by Gururaj Gurram)_
